@@ -1,0 +1,31 @@
+<svg width="1280" height="1078" viewBox="0 0 1280 1078" fill="none" 
+    xmlns="http://www.w3.org/2000/svg">
+    <g id="Home">
+        <rect width="1280" height="1078" fill="white"/>
+        <text id="Avinash Sharma" fill="black" xml:space="preserve" style="white-space: pre" font-family="Roboto" font-size="24" letter-spacing="0em">
+            <tspan x="47" y="58.2031">Avinash Sharma</tspan>
+        </text>
+        <g id="menu">
+            <text id="Contact"  fill="black" xml:space="preserve" style="white-space: pre" font-family="Roboto" font-size="18" letter-spacing="0em">
+                <tspan x="1162" y="52.6523">Contact</tspan>
+            </text>
+            <text id="About" fill="black" xml:space="preserve" style="white-space: pre" font-family="Roboto" font-size="18" letter-spacing="0em">
+                <tspan x="1066" y="52.6523">About</tspan>
+            </text>
+            <text id="CV" fill="black" xml:space="preserve" style="white-space: pre" font-family="Roboto" font-size="18" letter-spacing="0em">
+                <tspan x="994" y="52.6523">CV</tspan>
+            </text>
+            <text id="Projects" fill="black" xml:space="preserve" style="white-space: pre" font-family="Roboto" font-size="18" letter-spacing="0em">
+                <tspan x="880" y="52.6523">Projects</tspan>
+            </text>
+        </g>
+        <rect id="Rectangle 1" x="67" y="118" width="338" height="338" fill="#F2F2F2"/>
+        <rect id="Rectangle 3" x="520" y="603" width="674" height="424" fill="#F4F4F4"/>
+        <g id="project 1">
+            <rect id="Rectangle 2" x="520" y="118" width="674" height="424" fill="#F4F4F4"/>
+            <text id="Feed Redesign Experience" fill="black" xml:space="preserve" style="white-space: pre" font-family="Roboto" font-size="36" font-weight="300" letter-spacing="0em">
+                <tspan x="572" y="195.305">Feed Redesign  Experience</tspan>
+            </text>
+        </g>
+    </g>
+</svg>
