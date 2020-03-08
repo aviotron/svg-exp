@@ -9,7 +9,7 @@
 <head>
     <meta charset="utf-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    <title>Home - Avinash's Portfolio</title>
+    <title>About - Avinash's Portfolio</title>
     <meta name="description" content="">
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <link rel="stylesheet" href="">
@@ -36,7 +36,7 @@
     <script>
 
         $.ajax({
-            url: "Home.svg",
+            url: "About.svg",
             crossDomain: true,
             success: function (data) {
                 $(document.body).append(data.documentElement);
@@ -48,9 +48,9 @@
                     });
                 }
 
-                set_ID_CLASS_LINK('#Contact', 'clickable','/Contact')
+                set_ID_CLASS_LINK('#Contact', 'clickable','Contact.html')
                 set_ID_CLASS_LINK('#About', 'clickable','About.html')
-
+                
             }
         });
     </script>
